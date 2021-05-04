@@ -10,6 +10,8 @@ finnkino-theaters.js 			-- on javascript tiedosto, josta haetaan Finnkinon sivus
 					      kaikki alueet ja teatterit dropdown valikkoon.
 Events.js				-- on javascript tiedosto, joka hakee ja käsittelee xml tietoa ja luo sivuston sisällön.
 style.css				-- on cascading style sheets tiedosto, joka kuvaa koko html tyylin ja sivuston ulkonäon.
+
+
 ### 2. Projektin tarkoitus
 Projektin tarkoituksena oli luoda Ajax pyyntöjen avulla sivusto, joka hakee netistä sisällön sivustolle.
 Sivusto oli luotu koulu projektina javascript kursilla.
