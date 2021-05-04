@@ -1,4 +1,4 @@
-## Project-Task-2-AJAX
+### Project-Task-2-AJAX
 1. Tiedostojen Sisältö
 2. Projektin tarkoitus
 3. Projektin sijainnit
@@ -6,8 +6,8 @@
 5. Tekijä
 ### 1. Tiedostojen Sisältö
 index.html 				-- on hmtl tiedosto, johon javascriptillä luodaan sisältöä.
-finnkino-theaters.js 	-- on javascript tiedosto, josta haetaan Finnkinon sivustolta.
-						   kaikki alueet ja teatterit dropdown valikkoon.
+finnkino-theaters.js 			-- on javascript tiedosto, josta haetaan Finnkinon sivustolta.
+					      kaikki alueet ja teatterit dropdown valikkoon.
 Events.js				-- on javascript tiedosto, joka hakee ja käsittelee xml tietoa ja luo sivuston sisällön.
 style.css				-- on cascading style sheets tiedosto, joka kuvaa koko html tyylin ja sivuston ulkonäon.
 ### 2. Projektin tarkoitus
